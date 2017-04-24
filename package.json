@@ -1,6 +1,6 @@
 {
   "name": "ngx-storage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Decoractor for angular 2 or 4 for handlin web/local/session/storage",
   "main": "index.js",
   "dependencies": {
