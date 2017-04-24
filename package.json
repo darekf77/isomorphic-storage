@@ -1,6 +1,6 @@
 {
   "name": "ng4-storage",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Decoractor for angular 2 or 4 for handlin web/local/session/storage",
   "main": "index.js",
   "dependencies": {
