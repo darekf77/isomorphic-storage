@@ -1,5 +1,5 @@
 {
-  "name": "ngx-storage",
+  "name": "ng4-storage",
   "version": "1.0.2",
   "description": "Decoractor for angular 2 or 4 for handlin web/local/session/storage",
   "main": "index.js",
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/darekf77/ngx-storage.git"
+    "url": "git+ssh://git@github.com/darekf77/ng4-storage.git"
   },
   "author": "Dariusz Filipiak",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/darekf77/ngx-storage/issues"
+    "url": "https://github.com/darekf77/ng4-storage/issues"
   },
-  "homepage": "https://github.com/darekf77/ngx-storage#readme"
+  "homepage": "https://github.com/darekf77/ng4-storage#readme"
 }
