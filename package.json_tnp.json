@@ -8,7 +8,9 @@
       "*"
     ],
     "includeAsDev": [],
-    "includeOnly": [],
+    "includeOnly": [
+      "tnp-helpers"
+    ],
     "dependencies": {}
   },
   "linkedProjects": [],
