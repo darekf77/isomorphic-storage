@@ -283,5 +283,6 @@
     "url": "https://github.com/darekf77/ng4-storage/issues"
   },
   "homepage": "https://github.com/darekf77/ng4-storage#readme",
-  "private": false
+  "private": false,
+  "lastBuildTagHash": "2b725ca8f93dcf8214f34e55b89a688986ba02e8"
 }
