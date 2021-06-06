@@ -4,9 +4,7 @@
   "type": "isomorphic-lib",
   "overrided": {
     "linkedFolders": [],
-    "ignoreDepsPattern": [
-      "*"
-    ],
+    "ignoreDepsPattern": [],
     "includeAsDev": [],
     "includeOnly": [
       "tnp-helpers"
