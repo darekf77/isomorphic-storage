@@ -269,7 +269,7 @@
     "url": "git+ssh://git@github.com/darekf77/ng4-storage.git"
   },
   "author": "Dariusz Filipiak",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/darekf77/ng4-storage/issues"
   },
