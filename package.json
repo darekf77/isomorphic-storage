@@ -26,7 +26,8 @@
     "author": "Dariusz Filipiak",
     "homepage": "https://github.com/darekf77/ng4-storage#readme",
     "main": "index.js",
-    "private": true
+    "private": true,
+    "workerPlugins": {}
   },
   "name": "isomorphic-storage",
   "version": "0.0.4",
