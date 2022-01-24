@@ -277,5 +277,8 @@
   },
   "homepage": "https://github.com/darekf77/ng4-storage#readme",
   "private": true,
-  "lastBuildTagHash": "2b725ca8f93dcf8214f34e55b89a688986ba02e8"
+  "lastBuildTagHash": "2b725ca8f93dcf8214f34e55b89a688986ba02e8",
+  "recreatedFrom": {
+    "tnp.json": true
+  }
 }
