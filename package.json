@@ -27,12 +27,12 @@
     "homepage": "https://github.com/darekf77/ng4-storage#readme",
     "main": "index.js",
     "private": true,
-    "workerPlugins": {}
+    "workerPlugins": {},
+    "linkedRepos": []
   },
   "name": "isomorphic-storage",
   "version": "0.0.4",
   "description": "Decoractor for angular 2 or 4 for handlin web/local/session/storage",
-  "main": "index.js",
   "dependencies": {
     "tnp-helpers": "~0.0.60"
   },
@@ -277,8 +277,5 @@
   },
   "homepage": "https://github.com/darekf77/ng4-storage#readme",
   "private": true,
-  "lastBuildTagHash": "2b725ca8f93dcf8214f34e55b89a688986ba02e8",
-  "recreatedFrom": {
-    "tnp.json": true
-  }
+  "lastBuildTagHash": "2b725ca8f93dcf8214f34e55b89a688986ba02e8"
 }
