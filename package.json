@@ -28,7 +28,9 @@
     "main": "index.js",
     "private": true,
     "workerPlugins": {},
-    "linkedRepos": []
+    "linkedRepos": [],
+    "smartContainerTarget": "",
+    "smartContainerBuildTarget": ""
   },
   "name": "isomorphic-storage",
   "version": "0.0.4",
