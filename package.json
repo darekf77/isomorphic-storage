@@ -1,6 +1,8 @@
 {
   "tnp": {
     "resources": [],
+    "version": "v2",
+    "type": "isomorphic-lib",
     "overrided": {
       "linkedFolders": [],
       "ignoreDepsPattern": [],
@@ -8,22 +10,14 @@
       "includeOnly": [
         "tnp-helpers"
       ],
-      "dependencies": {},
-      "npmFixes": []
+      "dependencies": {}
     },
-    "smartContainerBuildTarget": "",
-    "linkedRepos": [],
+    "linkedProjects": [],
     "libReleaseOptions": {
       "nodts": false,
       "obscure": false,
-      "ugly": false,
-      "cliBuildNoDts": false,
-      "cliBuildObscure": false,
-      "cliBuildUglify": false,
-      "cliBuildIncludeNodeModules": false
+      "ugly": false
     },
-    "version": "v2",
-    "type": "isomorphic-lib",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
