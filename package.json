@@ -257,6 +257,6 @@
   "homepage": "https://github.com/darekf77/ng4-storage#readme",
   "private": true,
   "name": "isomorphic-storage",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "main": "index.js"
 }
